@@ -1,0 +1,30 @@
+#
+# BEGIN HOMEBREW APP INSTALLATIONS
+#
+
+mas "1Password 7", id: 1333542190
+mas "Amphetamine", id: 937984704
+mas "Bear", id: 1091189122
+mas "Crypto Pro", id: 980888073
+mas "DaisyDisk", id: 411643860
+mas "Dato", id: 1470584107
+mas "Deliveries", id: 924726344
+mas "Keka", id: 470158793
+mas "Keynote", id: 409183694
+mas "Magnet", id: 441258766
+mas "Microsoft OneNote", id: 784801555
+mas "Microsoft Excel", id: 462058435
+mas "Microsoft PowerPoint", id: 462062816
+mas "Microsoft Word", id: 462054704
+mas "Microsoft Remote Desktop", id: 1295203466
+mas "NordVPN IKE", id: 1116599239
+mas "Numbers", id: 409203825
+mas "Pages", id: 409201541
+mas "Pixelmator Pro", id: 1289583905
+mas "Reeder", id: 1449412482
+mas "Shazam", id: 897118787
+mas "Textual IRC Client", id: 1262957439
+mas "Things", id: 904280696
+mas "ToothFairy", id: 1191449274
+mas "Twitter", id: 1482454543
+mas "Xcode", id: 497799835 

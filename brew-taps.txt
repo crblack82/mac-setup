@@ -1,0 +1,6 @@
+#
+# BEGIN HOMEBREW TAP INSTALLATIONS
+#
+tap "aws/tap"
+tap "homebrew/cask-drivers"
+tap "buo/cask-upgrade"
