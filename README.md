@@ -1,6 +1,6 @@
 # mac-setup
 
-An automated setup script for my macbook pro.
+An automated setup script for my macbook pro
 
 ## Getting Started
 
@@ -21,6 +21,10 @@ Installation could not be easier:
 Powerlevel10k which is the zsh theme used by the *mac-setup* script recommends the Meslo Nerd Font for use in the terminal.  To install, please see:
 
 [Meslo Nerd Font patched for Powerlevel10k](https://github.com/romkatv/powerlevel10k#fonts)
+
+### Importing the optional bettertouchtool settings
+
+From better touch tools, import Preset from the Presets menu
 
 ### Updating
 
