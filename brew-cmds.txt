@@ -1,6 +1,7 @@
 #
 # BEGIN HOMEBREW CLI INSTALLATIONS
 #
+
 brew "ack"
 brew "angular-cli"
 brew "awscli"
