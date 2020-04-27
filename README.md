@@ -13,7 +13,7 @@ None
 Installation could not be easier:
 
 ```
-mac-setup.sh
+./mac-setup.sh
 ```
 
 ### Installing the optional fonts
