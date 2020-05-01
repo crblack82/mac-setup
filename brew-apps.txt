@@ -10,6 +10,7 @@ mas "Crypto Pro", id: 980888073
 mas "DaisyDisk", id: 411643860
 mas "Dato", id: 1470584107
 mas "Deliveries", id: 924726344
+mas "Encrypto", id: 935235287
 mas "Keka", id: 470158793
 mas "Keynote", id: 409183694
 mas "Magnet", id: 441258766
