@@ -3,12 +3,10 @@
 #
 
 mas "1Password 7", id: 1333542190
-mas "4ktube", id: 1462103187
 mas "Amphetamine", id: 937984704
 mas "Bear", id: 1091189122
 mas "Crypto Pro", id: 980888073
 mas "DaisyDisk", id: 411643860
-mas "Dato", id: 1470584107
 mas "Deliveries", id: 924726344
 mas "Encrypto", id: 935235287
 mas "GarageBand", id: 682658836
