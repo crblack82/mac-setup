@@ -7,6 +7,7 @@ mas "Amphetamine", id: 937984704
 mas "Bear", id: 1091189122
 mas "Crypto Pro", id: 980888073
 mas "DaisyDisk", id: 411643860
+mas "DarkRoom", id: 953286746
 mas "Deliveries", id: 924726344
 mas "Encrypto", id: 935235287
 mas "GarageBand", id: 682658836
