@@ -4,7 +4,6 @@ cask_args appdir: "/Applications"
 # BEGIN HOMEBREW CASK INSTLLATIONS
 #
 
-cask "adguard"
 cask "appcleaner"
 cask "balenaetcher"
 cask "bartender"
