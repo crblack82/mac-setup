@@ -6,7 +6,6 @@ cask_args appdir: "/Applications"
 
 cask "adguard"
 cask "appcleaner"
-cask "balenaetcher"
 cask "bartender"
 cask "bettertouchtool"
 cask "cheatsheet"
