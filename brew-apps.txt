@@ -19,10 +19,10 @@ mas "Microsoft OneNote", id: 784801555
 mas "Microsoft Excel", id: 462058435
 mas "Microsoft PowerPoint", id: 462062816
 mas "Microsoft Word", id: 462054704
-mas "Microsoft Remote Desktop", id: 1295203466
-mas "Microsoft To Do", id: 1274495053
+#mas "Microsoft Remote Desktop", id: 1295203466
+#mas "Microsoft To Do", id: 1274495053
 mas "Numbers", id: 409203825
-mas "OneDrive", id: 823766827
+#mas "OneDrive", id: 823766827
 mas "Pages", id: 409201541
 mas "Pixelmator Pro", id: 1289583905
 mas "Reeder", id: 1449412482
